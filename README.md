@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Finetune Falcon, LLaMA, MPT, and RedPajama on consumer hardware using PEFT LoRA
+
+
 <!--
 **haohaoed/haohaoed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

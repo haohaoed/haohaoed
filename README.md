@@ -1,8 +1,6 @@
+
+
 ## Hi there 👋
-
-Finetune Falcon, LLaMA, MPT, and RedPajama on consumer hardware using PEFT LoRA
-
-### Hi there 👋
 
 I am Jun Han, the author of [《Visual Studio Code 权威指南》(Visual Studio Code: The Definitive Guide)](https://union-click.jd.com/jdc?e=jdext-1265230444582637568-0&p=AyIGZRprFQEaB1UfXhIyVlgNRQQlW1dCFFlQCxxKQgFHRE5XDVULR0UVARoHVR9eEh1LQglGa34KakMQUxgPYltTFxk5bnZ1DitaJlMOHjdVElsXChMGVRxYJQITBlUfXhYBFAZlK1sQMkRpVRpaFAMTAlUeWCUDIgdRE14QABcCUB9bEAAiB10fa8OshtLdpIKlp8St%2B87WpdebrIGl3SUyIgRlQA5BS1cbVRhcEQEQBlAeXhELEQBXHV8SCw4GZRtaFAIbD1YeUxVsE2lVE1sVABcOUBhYJQIiBGVFNRRREgJVH1lGbEhVDBtZSl9LaVwdXhUDEgdlGVoUABA%3D)
 
